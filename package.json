@@ -4,7 +4,7 @@
   "description": "electron app prototype",
   "main": "main.js",
   "scripts": {
-    "test": "start"
+    "start": "electron ."
   },
   "author": "",
   "license": "MIT",
